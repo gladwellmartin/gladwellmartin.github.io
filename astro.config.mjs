@@ -1,6 +1,5 @@
-import { defineConfig } from 'astro/config';
-import github from '@astrojs/github';
+import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  adapter: github()
+  site: "https://gladwellmartin.github.io",
 });
