@@ -31,12 +31,12 @@ Key responsibilities included:
 - Database indexing and performance tuning
 
 ## Workflow
-
-- Performed image preprocessing
-- Applied radiometric and geometric corrections
-- Completed orthorectification and mosaicking
-- Produced maps and validated accuracy
-
+- Reviewed enterprise geodatabase structures and existing indexing strategies  
+- Identified performance bottlenecks and maintenance gaps  
+- Developed Python/ArcPy scripts to automate index creation and removal  
+- Tested scripts against enterprise datasets  
+- Documented workflows and standardized maintenance procedures  
+- Supported publishing and validation of GIS services
 
 ## Key Outcomes
 - Improved enterprise geodatabase query performance through automated index management  
