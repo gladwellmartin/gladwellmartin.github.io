@@ -25,4 +25,9 @@ outliers.
 Supports 3D mapping, urban modeling, and infrastructure analysis by extracting structural features from point cloud data.
 
 ## Sample Visuals
-(Add RANSAC point cloud images here)
+
+![Raw Point Cloud](/images/cv_raw_pointcloud.png)
+
+![Detected Planes Using RANSAC](/images/cv_planes_detected.png)
+
+![Segmented Planes Output](/images/cv_segmentation.png)
