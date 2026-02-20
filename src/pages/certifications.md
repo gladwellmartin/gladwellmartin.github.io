@@ -6,8 +6,12 @@
 ## Licenses
 - (In progress)
 
-## Professional Development
-- Advanced GIS and spatial analysis training  
-- Healthcare data analytics coursework  
-- SQL and database management  
-- Python and R  for geospatial automation
+## Awards & Recognition
+- Certificate of Excellence for Geospatial Data Analysis  
+- Certificate of Outstanding Project Contribution  
+- Certificate of Merit for Technical Performance
+
+## Awards & Recognition
+- Certificate of Excellence for Geospatial Data Analysis  
+- Certificate of Outstanding Project Contribution  
+- Certificate of Merit for Technical Performance
