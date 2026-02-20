@@ -11,10 +11,18 @@ Schema view showing table structure and fields used for data management.
 Provide a stable, scalable enterprise GIS environment and custom geospatial 
 tools to support client mapping, analysis, and data integration needs.
 
-## Your Role
-- Administered ArcGIS Enterprise environments for client projects  
-- Designed and maintained Oracle Spatial databases  
-- Built custom geospatial tools and services using APIs and FME  
+## My Role
+
+I designed and implemented enterprise geospatial database automation workflows and developed Python-based tools to improve data performance, 
+integrity, and maintenance efficiency.
+
+Key responsibilities included:
+
+- Designing database indexing strategies for feature classes  
+- Writing ArcPy scripts to automate index creation and removal  
+- Supporting enterprise geodatabase performance tuning  
+- Developing repeatable tools for data maintenance tasks  
+- Supporting GIS analysts and engineers with backend GIS workflows 
 
 ## Tools and Technologies
 ArcGIS Enterprise  
@@ -25,11 +33,12 @@ Python
 REST APIs  
 
 ## Workflow
-- Designed geodatabase schemas  
-- Configured ArcGIS Enterprise services  
-- Built ETL workflows in FME  
-- Developed automation scripts  
-- Published services and validated performance  
+
+- Performed image preprocessing
+- Applied radiometric and geometric corrections
+- Completed orthorectification and mosaicking
+- Produced maps and validated accuracy
+
 
 ## Key Outcomes
 - Reliable enterprise GIS platform supporting multiple projects  
