@@ -30,3 +30,6 @@ REST APIs
 - Reduced manual data handling  
 - Improved consistency of spatial datasets  
 
+## Sample Visuals
+
+![ArcPy Index Management Script](/images/enterprise_python_indexing.png)
