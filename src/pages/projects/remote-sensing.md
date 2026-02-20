@@ -15,9 +15,14 @@ Key responsibilities included:
 - Running QA/QC checks for alignment, color balance, and completeness  
 
 ## Tools and Technologies  
-POSPAC 
-QGIS  
-
+-POSPAC 
+-QGIS  
+## Tools & Technologies
+- Photogrammetry software (e.g., Agisoft Metashape / Pix4D)
+- QGIS / ArcGIS Pro
+- Python
+- GDAL
+- Raster processing utilities
 ## Workflow
 - Performed image preprocessing  
 - Applied radiometric and geometric corrections  
@@ -25,10 +30,12 @@ QGIS
 - Produced maps and validated accuracy  
 
 ## Key Outcomes
-- High-quality orthophotos suitable for analysis  
-- Accurate mapping products and datasets  
-- Improved reliability of imagery-based outputs  
-
+- Produced orthophotos suitable for engineering and planning workflows
+- Improved positional accuracy across final mosaics
+- Delivered consistent, QA/QC-validated raster datasets  
+## Business Value
+These workflows support infrastructure planning, asset management, and environmental analysis by providing reliable, spatially accurate imagery 
+products.
 ## Sample Visuals
 
 ![Raw Imagery](/images/remote_raw.png)
