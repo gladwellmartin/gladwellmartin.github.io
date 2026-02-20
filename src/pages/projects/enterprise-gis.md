@@ -34,3 +34,5 @@ REST APIs
 ## Sample Visuals
 
 ![ArcPy Index Management Script](/images/enterprise_python_indexing.png)
+![Enterprise Database Schema](/images/enterprise_database_schema.png)
+
