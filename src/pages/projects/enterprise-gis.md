@@ -1,6 +1,8 @@
 
 # Enterprise GIS Platform Administration and Geospatial Tool Development
-This project demonstrates enterprise-level GIS automation and database schema design using Python and database tools.## Sample Visuals
+This project demonstrates enterprise-level GIS automation and database schema design using Python and database tools.
+
+## Sample Visuals
 
 ![ArcPy Index Management Script](/images/enterprise_python_indexing.png)
 
