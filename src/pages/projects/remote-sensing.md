@@ -3,10 +3,16 @@
 ## Objective
 Generate accurate imagery and maps to support spatial analysis and planning.
 
-## Your Role
-- Processed multispectral and hyperspectral imagery  
-- Produced orthophotos and mapping products with high accuracy  
-- Supported analysis through consistent image processing and QA  
+## My Role
+I led the end-to-end remote sensing workflow, from raw imagery preparation through orthorectification, mosaicking, and QA/QC to produce final 
+orthophotos and map-ready outputs.
+
+Key responsibilities included:
+- Organizing and validating raw imagery and project metadata
+- Performing radiometric and geometric corrections
+- Managing ground control inputs and orthorectification steps
+- Building mosaics and seamlines for consistent final products
+- Running QA/QC checks for alignment, color balance, and completeness  
 
 ## Tools and Technologies
 ERDAS IMAGINE  
