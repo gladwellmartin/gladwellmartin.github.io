@@ -14,9 +14,8 @@ Key responsibilities included:
 - Building mosaics and seamlines for consistent final products
 - Running QA/QC checks for alignment, color balance, and completeness  
 
-## Tools and Technologies
-ERDAS IMAGINE  
-ArcGIS  
+## Tools and Technologies  
+POSPAC 
 QGIS  
 
 ## Workflow
