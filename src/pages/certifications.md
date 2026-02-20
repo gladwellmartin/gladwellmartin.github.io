@@ -10,4 +10,4 @@
 - Advanced GIS and spatial analysis training  
 - Healthcare data analytics coursework  
 - SQL and database management  
-- Python for geospatial automation
+- Python and R  for geospatial automation
