@@ -4,10 +4,6 @@ This project demonstrates enterprise-level GIS automation and database schema de
 
 ## Sample Visuals
 
-![ArcPy Index Management Script](/images/enterprise_python_indexing.png)
-
-Python script used to automate index maintenance in an enterprise database.
-
 ![Enterprise Database Schema](/images/enterprise_database_schema.png)
 
 Schema view showing table structure and fields used for data management.
