@@ -1,6 +1,6 @@
-
-# Enterprise GIS Platform Administration and Geospatial Tool Development
-This project demonstrates enterprise-level GIS automation and database schema design using Python and database tools.
+## Overview
+This project demonstrates enterprise-level geospatial database administration and automation. The work focused on improving system performance, 
+enforcing data standards, and implementing repeatable backend workflows to support multi-user GIS environments.
 
 ## Sample Visuals
 
@@ -12,25 +12,23 @@ Provide a stable, scalable enterprise GIS environment and custom geospatial
 tools to support client mapping, analysis, and data integration needs.
 
 ## My Role
-
-I designed and implemented enterprise geospatial database automation workflows and developed Python-based tools to improve data performance, 
-integrity, and maintenance efficiency.
+I designed and maintained enterprise geospatial database structures and developed automation workflows to improve performance and reliability across 
+GIS systems.
 
 Key responsibilities included:
-
 - Designing database indexing strategies for feature classes  
-- Writing ArcPy scripts to automate index creation and removal  
+- Writing Python/ArcPy scripts to automate index creation and removal  
 - Supporting enterprise geodatabase performance tuning  
-- Developing repeatable tools for data maintenance tasks  
-- Supporting GIS analysts and engineers with backend GIS workflows 
+- Developing repeatable backend GIS maintenance tools  
+- Documenting workflows and data standards
 
-## Tools and Technologies
-ArcGIS Enterprise  
-ArcGIS Pro  
-Oracle Spatial  
-FME  
-Python  
-REST APIs  
+## Tools & Technologies
+- ArcGIS Enterprise  
+- ArcPy  
+- Python  
+- SQL  
+- Geodatabase administration  
+- Database indexing and performance tuning
 
 ## Workflow
 
@@ -42,9 +40,9 @@ REST APIs
 
 ## Key Outcomes
 - Improved enterprise geodatabase query performance through automated index management  
-- Reduced manual maintenance effort by implementing repeatable Python-based workflows  
+- Reduced manual maintenance effort by implementing repeatable Python workflows  
 - Increased reliability and consistency of enterprise GIS datasets  
-- Supported stable publishing and consumption of GIS services for client applications  
+- Supported stable publishing and consumption of GIS services  
 - Established documented standards for backend GIS data maintenance  
 
 ## Business Value
